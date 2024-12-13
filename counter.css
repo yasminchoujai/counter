@@ -1,0 +1,33 @@
+#countlabel{
+    display: block;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.container{
+
+    display: block;
+    text-align: center;
+    margin-top: 20%;
+  
+    
+}
+button{
+    border-radius: 20px;
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    color: aliceblue;
+}
+#increase{
+    background-color:rgb(74, 92, 98);
+}
+#decrease{
+    background-color:rgb(121, 93, 117);
+}
+#reset{
+    background-color:rgb(131, 94, 94);
+}
+body{
+    background-color: aliceblue;
+}
